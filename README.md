@@ -51,7 +51,7 @@ This graph, show that at the end more *rogues* stay alive! This could be explain
 
 Here, you can see the same results from the first graph. The number of *warriors* drops dramatically, as * rogues* always run out of combat when they see a *warrior*, implying that the nature of **NEVER RUN A SINGLE COMBAT!** makes the *warriors* kill each other faster and in the end the only one left in combat it becomes invincible! since the rogues will always run from him!
 
-### WINNERS ATTRIBUTES GRAPH
+### Winners Attribute Graph - Strength X Agility
 ![Graph Power vs Agility](https://user-images.githubusercontent.com/32513366/63557681-0b41d580-c520-11e9-976e-d5ac5d3c74f0.png)
 
 This is interesting, this graph shows that in the end the winners were independent of the class itself. These agents somehow bypassed the rules:
@@ -61,8 +61,8 @@ This result shows how AWESOME is the analysis of agent-based modeling.
 
 ## HOW TO RUN
 - First you need to have installed *QT Creator* (recommend to use my version)
-- **Application**: Open the project **ArenaFight** and run *main.cpp*
-- **Simulation Results Generator**: Open the project **fightCage** and run *main.cpp**
+- **Application**: Open the folder **ArenaFight**, click in **ArenaFight (Qt Project File)** and run *main.cpp*
+- **Simulation Results Generator**: Open the project **fightCage**, click in **fightCage (Qt Project File)** and run *main.cpp**
 - **Generate the Graphs**: Run *graphs.py*. Have in mind that **fightCage** is not the main goal, so this part still in process
 
 ## CONTACT AND SOME NOTES
