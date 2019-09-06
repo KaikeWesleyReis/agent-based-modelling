@@ -1,10 +1,10 @@
 # Agent-based Modeling Scenario - Fight and Run!
 
-**Overview**: This project was created using C++ with the goal to improve my knowledge in this **programming language**, **encapsulation fundamentals**, **class in C++** and **design development of an application using QT Creator**. This simulation has created agents that follows the *percept environment-think-action* decision chain as is made in Reinforcement Learning algorithms. 
+**Overview**: This project was created using C++ with the goal to improve my knowledge in this **programming language**, **encapsulation fundamentals**, **class in C++** and **design development of an application using QT Creator**. This simulation used agents that follows the command chain: *percept environment-think-action* as is made in Reinforcement Learning algorithms.
 
-**Version**: During this project, was used *QT Creator 5.9.8*, you can download [here](https://www.qt.io/offline-installers)
+**Version**: During this project was used *QT Creator 5.9.8*, you can download [here](https://www.qt.io/offline-installers)
 
-## MODEL CREATED
+## MODEL
 **Application**
 ![arenaFight](https://user-images.githubusercontent.com/32513366/63557321-93bf7680-c51e-11e9-9e46-0da6554e4bd4.gif)
 
