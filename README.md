@@ -62,7 +62,7 @@ This result shows how AWESOME is the analysis of agent-based modeling.
 ## HOW TO RUN
 - First you need to have installed *QT Creator* (recommend to use my version)
 - **Application**: Open the folder **ArenaFight**, click in **ArenaFight (Qt Project File)** and run *main.cpp*
-- **Simulation Results Generator**: Open the project **fightCage**, click in **fightCage (Qt Project File)** and run *main.cpp**
+- **Simulation Results Generator**: Open the project **fightCage**, click in **fightCage (Qt Project File)** and run *main.cpp*
 - **Generate the Graphs**: Run *graphs.py*. Have in mind that **fightCage** is not the main goal, so this part still in process
 
 ## CONTACT AND SOME NOTES
