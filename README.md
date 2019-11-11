@@ -1,4 +1,4 @@
-# Agent-based Modeling Scenario - Fight and Run!
+# Agent-based Model - Scenario Fight and Run!
 
 **Overview**: This project was created using C++ with the goal to improve my knowledge in this **programming language**, **encapsulation fundamentals**, **class in C++** and **design development of an application using QT Creator**. This simulation used agents that follows the command chain: *percept environment-think-action* as is made in Reinforcement Learning algorithms.
 
